@@ -17,7 +17,7 @@ h1 {
 }
 main {
   background-image: url(./header.jpg);
-  width: 1170px;
+  width: 100vw;
   height: 100vh;
   object-fit: contain;
   background-repeat: no-repeat;
@@ -29,7 +29,6 @@ main {
   flex-direction: column;
 }
 .find {
-  display: block;
   color: aliceblue;
   background-color: orange;
   margin-top: 40px;
